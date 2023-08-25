@@ -1,0 +1,48 @@
+body {
+    background-color: #070A52;
+
+}
+
+.title {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: #00DFA2;
+    font-weight: 800;
+    font-size: 5rem;
+    text-shadow: 4px 4px #ff0000;
+}
+
+.title-container {
+    margin: 2.5rem 1rem 1rem 1rem;
+}
+
+section {
+    display: flex;
+    gap: 3rem;
+    justify-content: space-around;
+}
+
+h2 {
+    font-family: 'Indie flower';
+}
+
+.container-jogador {
+    align-content: center;
+    color: #00DFA2;
+    font-size: 1.5rem;
+    text-shadow: 3px 3px #007e5c;
+    text-align: center;
+}
+
+img {
+    width: 70%;
+}
+
+.resultado {
+    text-align: center;
+    display: block;
+    font-size: 4rem;
+    margin: 6rem auto;
+    color: #00DFA2;
+    text-shadow: 4px 4px #ff0000;
+}
